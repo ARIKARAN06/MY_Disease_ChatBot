@@ -9,5 +9,5 @@ sentence-transformers==5.0.0
 tf-keras==2.20.1
 pypdf
 joblib==1.5.3
-opencv-python
+opencv-python-headless==4.12.0.88
 scikit-learn==1.6.1
